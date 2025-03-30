@@ -1,5 +1,7 @@
 # ᝰ.ᐟ Parasail
 
+Link: [https://www.parasail.network](https://www.parasail.network/season?refer=MHhGNzAyMDYzRjc3OUY4OGM1ZTEwQWIwMGUzZUYxODQ4NzlhOUNFZDE2)
+
 Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)
 
 ## 🚨 Attention Before Running Parasail Cli Version
@@ -8,7 +10,7 @@ I am not `responsible` for the possibility of an account being `banned`!
 
 ## 📎 Parasail Node cli version Script features
 
-- Auto task
+- Auto checkin, register node
 - Support proxy or not
 - Mutiple threads, multiple accounts
 
